@@ -319,3 +319,4 @@
 8	τρεις	τρεις	NUM	NmCd	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	9	nummod	_	end_char=2539|start_char=2534
 9	μέρες	μέρα	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Plur	4	nmod	_	end_char=2545|start_char=2540
 10	.	.	PUNCT	PTERMP	_	1	punct	_	end_char=2547|start_char=2546
+
