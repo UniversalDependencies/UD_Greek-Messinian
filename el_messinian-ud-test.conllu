@@ -1,3 +1,4 @@
+# sent_id = 1
 # text = Και θεωρώ ότι ήτανε .
 1	Και	και	CCONJ	CjCo	_	2	cc	_	_
 2	θεωρώ	θεωρώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5,11 +6,13 @@
 4	ήτανε	είμαι	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 5	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+# sent_id = 2
 # text = Είχανε λεφτά .
 1	Είχανε	έχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	λεφτά	λεφτά	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
 3	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 
+# sent_id = 3
 # text = Λοιπόν , πες για τις σεζόν σου , πώς πάνε, πώς πηγαίνανε .
 1	Λοιπόν	λοιπόν	INTJ	AdBa	_	3	discourse	_	_
 2	,	,	PUNCT	PUNCT	_	1	punct	_	PunctType=Comm
@@ -25,6 +28,7 @@
 12	πηγαίνανε	πηγαίνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	_
 13	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
 
+# sent_id = 4
 # text = Καμιά φορά , είναι όλα αυτά που 'χουμε μεγαλώσει , πεποιθήσεις και ο τρόπος που 'χουμε μεγαλώσει , είναι χέστα .
 1	Καμιά	κανένας	DET	PnId	Case=Acc|Gender=Fem|Number=Sing	20	advmod	_	_
 2	φορά	φορά	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	1	fixed	_	_
@@ -48,11 +52,13 @@
 20	χέστα	χέζω	VERB	AjBa	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	_
 21	.	.	PUNCT	PTERMP	_	20	punct	_	PunctType=Peri
 
+# sent_id = 5
 # text = Είναι άλλο .
 1	Είναι	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	άλλο	άλλος	DET	PnId	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	_
 3	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+# sent_id = 6
 # text = Γιατί πήγες σ το έκτο ;
 1	Γιατί	γιατί	ADV	AdBa	_	2	advmod	_	_
 2	πήγες	πηγαίνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -61,6 +67,7 @@
 5	έκτο	έκτος	ADJ	NmOd	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	2	obl	_	_
 6	;	;	PUNCT	PTERM	_	2	punct	_	PunctType=Qest
 
+# sent_id = 7
 # text = Το παίζω με τις ώρες .
 1	Το	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 2	παίζω	παίζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -69,11 +76,13 @@
 5	ώρες	ώρα	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Plur	2	nmod	_	_
 6	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+# sent_id = 8
 # text = Δεν υπάρχει .
 1	Δεν	δεν	PART	PtNg	Polarity=Neg	2	advmod	_	_
 2	υπάρχει	υπάρχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+# sent_id = 9
 # text = Όχι , είναι σ την Αθηνών
 1	Όχι	όχι	INTJ	NoPr	_	6	discourse	_	_
 2	,	,	PUNCT	NoPr	_	6	punct	_	_
@@ -82,6 +91,7 @@
 5	την	ο	DET	AjBa	Case=Nom|Gender=Fem|Number=Sing	6	det	_	_
 6	Αθηνών	Αθήνα	PROPN	RgFwTr	Case=Gen|Gender=Fem|Number=Plur	0	root	_	_
 
+# sent_id = 10
 # text = Δεν είχα τίποτ' άλλο να πάω .
 1	Δεν	δεν	ADV	PtNg	Polarity=Neg	2	advmod	_	_
 2	είχα	έχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -91,10 +101,12 @@
 6	πάω	πηγαίνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	2	advcl	_	_
 7	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+# sent_id = 11
 # text = Πανηγυρίζαμε .
 1	Πανηγυρίζαμε	πανηγυρίζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 
+# sent_id = 12
 # text = Ναι , ναι, με τα Fortnite .
 1	Ναι	ναι	INTJ	AdBa	Polarity=Pos	6	discourse	_	_
 2	,	,	PUNCT	PUNCT	_	3	punct	_	PunctType=Comm
@@ -104,6 +116,7 @@
 6	Fortnite	Fortnite	X	RgFwOr	Foreign=Yes	0	root	_	_
 7	.	.	PUNCT	PTERMP	_	6	punct	_	PunctType=Peri
 
+# sent_id = 13
 # text = Δεν προτείνω σεζόν σε κανένανε .
 1	Δεν	δεν	ADV	PtNg	_	2	advmod	_	_
 2	προτείνω	προτείνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -112,12 +125,14 @@
 5	κανένανε	κανένας	PRON	VbMn	Gender=Masc|Number=Sing	2	nmod	_	_
 6	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+# sent_id = 14
 # text = Έβγαλα τέσσερες τάξεις .
 1	Έβγαλα	βγάζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τέσσερες	τέσσερα	ADJ	AjBa	Case=Acc|Gender=Fem|Number=Plur	3	amod	_	_
 3	τάξεις	τάξη	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
 4	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 
+# sent_id = 15
 # text = Είχανε πάει σε το χωράφι να μαζέψουνε τα σιτηρά και έπιασε βροχή .
 1	Είχανε	έχω	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	aux	_	_
 2	πάει	πηγαίνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -133,6 +148,7 @@
 12	βροχή	βροχή	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
 13	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+# sent_id = 16
 # text = Δούλευε απ' το πρωί μέχρι το βράδυ σε τα χωράφια και σε τα πρόβατα .
 1	Δούλευε	δουλεύω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	απ'	από	ADP	AsPpSp	_	4	case	_	_
@@ -150,6 +166,7 @@
 14	πρόβατα	πρόβατο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	10	conj	_	_
 15	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 
+# sent_id = 17
 # text = Ειδοποίησα δικούς μου τέτοιο όταν είχα ήδη φτάσει , είχα μπει σε το στρατόπεδο .
 1	Ειδοποίησα	ειδοποιώ	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	δικούς	δικός	ADJ	AjBa	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
@@ -167,6 +184,7 @@
 14	στρατόπεδο	στρατόπεδο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
 15	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 
+# sent_id = 18
 # text = Με τα ίδια ρούχα μας λέει αφήστε ελεύθερα τα παι .
 1	Με	με	ADP	AsPpSp	_	4	case	_	_
 2	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
@@ -180,6 +198,7 @@
 10	παι	παιδιά	NOUN	ABBR	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
 11	.	.	PUNCT	PTERMP	_	7	punct	_	PunctType=Peri
 
+# sent_id = 19
 # text = Και για πέντε λεπτά , έχασε το στοίχημα .
 1	Και	και	CCONJ	CjCo	_	4	cc	_	_
 2	για	για	ADP	AsPpSp	_	4	case	_	_
@@ -191,6 +210,7 @@
 8	στοίχημα	στοίχημα	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
 9	.	.	PUNCT	PTERMP	_	6	punct	_	PunctType=Peri
 
+# sent_id = 20
 # text = Ναι , καλά τα λες .
 1	Ναι	Ναι	INTJ	OPUNCT	_	5	discourse	_	PunctType=Quot
 2	,	,	PUNCT	OPUNCT	_	5	punct	_	PunctType=Quot
@@ -199,6 +219,7 @@
 5	λες	λέω	VERB	VbMn	Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	_
 6	.	.	PUNCT	PTERMP	_	5	punct	_	PunctType=Peri
 
+# sent_id = 21
 # text = Και εγώ την άλλαζα , γιατί σιχαινόμουν να την ακουμπάω .
 1	Και	και	CCONJ	CjCo	_	4	cc	_	_
 2	εγώ	εγώ	PRON	NoCm	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
@@ -212,6 +233,7 @@
 10	ακουμπάω	ακουμπώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	_
 11	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
 
+# sent_id = 22
 # text = Περνάει πάρα πολλή ώρα σ' αυτό .
 1	Περνάει	περνάω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	πάρα	πάρα	ADV	AdBa	_	3	advmod	_	_
@@ -221,6 +243,7 @@
 6	αυτό	αυτός	DET	PnDm	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	obl	_	_
 7	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 
+# sent_id = 23
 # text = Ούτε τότε παίζανε τα κορίτσια πολύ .
 1	Ούτε	ούτε	CCONJ	CjCo	_	3	cc	_	_
 2	τότε	τότε	ADV	AdBa	_	3	advmod	_	_
@@ -230,6 +253,7 @@
 6	πολύ	πολύ	ADV	AdBa	_	3	advmod	_	_
 7	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
 
+# sent_id = 24
 # text = Γεωργιόπ’λε , μου λέει , πες μου πού είναι ο Βασιλάκης .
 1	Γεωργιόπ’λε	Γεωργιόπουλος	PROPN	NoPr	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
 2	,	,	PUNCT	PUNCT	_	4	punct	_	PunctType=Comm
@@ -244,6 +268,7 @@
 11	Βασιλάκης	Βασιλάκης	PROPN	NoPr	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 12	.	.	PUNCT	PTERMP	_	6	punct	_	PunctType=Peri
 
+# sent_id = 25
 # text = Δε το ‘χαμε ‘μεις .
 1	Δε	δεν	PART	PtNg	Polarity=Neg	3	advmod	_	_
 2	το	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
@@ -251,6 +276,7 @@
 4	‘μεις	εγώ	VERB	VbMn	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 5	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
 
+# sent_id = 26
 # text = Οι δικοί μου μείνανε κάγκελο .
 1	Οι	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	δικοί	δικός	ADJ	NoCm	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -259,6 +285,7 @@
 5	κάγκελο	κάγκελο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	4	xcomp	_	mwe=1
 6	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
 
+# sent_id = 27
 # text = Μούζο , πήγαινε να ντυθείς ρε , μου 'κανε .
 1	Μούζο	Μούζος	PROPN	NoPr	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	_
 2	,	,	PUNCT	PUNCT	_	3	punct	_	PunctType=Comm
@@ -292,12 +319,3 @@
 8	τρεις	τρεις	NUM	NmCd	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	9	nummod	_	end_char=2539|start_char=2534
 9	μέρες	μέρα	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Plur	4	nmod	_	end_char=2545|start_char=2540
 10	.	.	PUNCT	PTERMP	_	1	punct	_	end_char=2547|start_char=2546
-
-# text = Ας βάλω και λίγα σκράντσες .
-# sent_id = 58
-1	Ας	ας	PART	PtOt	_	2	mark	_	end_char=2472|start_char=2470
-2	βάλω	βάζω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	end_char=2477|start_char=2473
-3	και	και	CCONJ	CjCo	_	5	cc	_	end_char=2481|start_char=2478
-4	λίγα	λίγος	ADJ	PnId	Case=Acc|Gender=Neut|Number=Plur	5	amod	_	end_char=2486|start_char=2482
-5	σκράντσες	σκράντση	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	end_char=2496|start_char=2487
-6	.	.	PUNCT	PTERMP	_	2	punct	_	end_char=2498|start_char=2497
