@@ -27,7 +27,7 @@
 8	στεκάκι	στεκάκι	NOUN	NoCm	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing	4	obj	_	end_char=2653|start_char=2646
 9	,	,	PUNCT	PUNCT	_	11	punct	_	end_char=2655|start_char=2654
 10	σαν	σαν	ADV	AdBa	_	11	case	_	end_char=2659|start_char=2656
-11	αυτά	αυτός	DET	PnDm	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	8	amod	_	end_char=2664|start_char=2660
+11	αυτά	αυς	DET	PnDm	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	8	amod	_	end_char=2664|start_char=2660
 12	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	13	obj	_	end_char=2668|start_char=2665
 13	φοράς	φορώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	end_char=2674|start_char=2669
 14	.	.	PUNCT	PTERMP	_	2	punct	_	end_char=2676|start_char=2675
@@ -85,11 +85,11 @@
 2	γράφεις	γράφω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=2882|start_char=2875
 3	;	;	PUNCT	PTERM	_	2	punct	_	end_char=2884|SpaceAfter=No|start_char=2883
 
-# text = Εγώ σ το σπίτι συνέχιζα τα live , με τα ρούχα πια και με πιο λίγα αξεσουάρ .
+# text = Εγώ σ  σπίτι συνέχιζα τα live , με τα ρούχα πια και με πιο λίγα αξεσουάρ .
 # sent_id = 41
 1	Εγώ	εγώ	PRON	PnPe	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	end_char=1743|start_char=1740
 2	σ	σε	ADP	AsPpSp	_	4	case	_	end_char=1747|start_char=1744
-3	το	το	DET	AsPpSp	Case=Acc|Gender=Neut|Number=Sing	4	det	_	end_char=1747|start_char=1744
+3	το	το	DET	AsPpSp	Case=Acc|Gender=Neut|Number=Sing||PronType=Art	4	det	_	end_char=1747|start_char=1744
 4	σπίτι	σπίτι	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	end_char=1753|start_char=1748
 5	συνέχιζα	συνεχίζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=1762|start_char=1754
 6	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	end_char=1765|start_char=1763
