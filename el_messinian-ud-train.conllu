@@ -602,7 +602,7 @@
 6	τι	τι	PRON	PnIr	PronType=Int	7	obj	_	_
 7	θέλουν	θέλω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
 8	ε,	ε,	SCONJ	PtSj	_	7	reparandum	_	_
-9	κρατήσεις	κράτηση	NOUN	VbMn	Case=Acc|Number=Plur	7	obj	_	_
+9	κρατήσεις	κράτηση	NOUN	VbMn	Case=Acc|Number=Plur	7	conj	_	_
 10	και	και	CCONJ	CjCo	_	11	cc	_	_
 11	τέτοια	τέτοιος	ADJ	PnDm	Case=Acc|Gender=Neut|Number=Plur	9	conj	_	_
 12	.	.	PUNCT	PTERMP	_	5	punct	_	PunctType=Peri
