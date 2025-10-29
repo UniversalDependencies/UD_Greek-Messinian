@@ -222,7 +222,7 @@
 2	να	να	AUX	PtSj	_	4	aux	_	end_char=816|start_char=814
 3	'ναι	είμαι	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	end_char=821|start_char=817
 4	ρούχα	ρούχο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	0	root	_	end_char=827|start_char=822
-5	που	που	PRON	PnRe	Case=Nom|Gender=Neut|Number=Plur	8	mark	_	end_char=831|start_char=828
+5	που	που	SCONJ	PnRe	Case=Nom|Gender=Neut|Number=Plur	8	mark	_	end_char=831|start_char=828
 6	να	να	AUX	PtSj	_	8	aux	_	end_char=834|start_char=832
 7	τους	εγώ	PRON	PnPe	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	_	end_char=839|start_char=835
 8	αρέσουν	αρέσω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	end_char=847|start_char=840
