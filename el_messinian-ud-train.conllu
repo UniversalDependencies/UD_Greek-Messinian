@@ -618,7 +618,6 @@
 11	τέτοια	τέτοιος	ADJ	PnDm	Case=Acc|Gender=Neut|Number=Plur	9	conj	_	_
 12	.	.	PUNCT	PTERMP	_	5	punct	_	PunctType=Peri
 
-
 # text = Τ' οτιδήποτε, έπρεπε να μας το φέρουν οι γονείς μας .
 # sent_id = 54
 1	Τ'	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
