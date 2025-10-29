@@ -1,6 +1,6 @@
 # text = Τις έχεις μετρήσει .
 # sent_id = 01
-Να	να	PART	PtSj	_	5	mark	_	_
+1 Να	να	PART	PtSj	_	5	mark	_	_
 2	μου	εγώ	PRON	PnPe	Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
 3	'χουνε	έχω	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 4	ήδη	ήδη	ADV	AdBa	_	5	advmod	_	_
