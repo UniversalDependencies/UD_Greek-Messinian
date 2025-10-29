@@ -41,7 +41,7 @@
 
 # text = Απ' ότι βλέπω τα κοκκαλάκια .
 # sent_id = 64
-1	Απ'	από	ADP	AsPpSp	_	3	mark	ExtPos	end_char=2747|start_char=2744
+1	Απ'	από	ADP	AsPpSp	_	3	mark	_	end_char=2747|start_char=2744
 2	ότι	ότι	SCONJ	CjSb	_	1	fixed	_	_
 3	βλέπω	βλέπω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=2757|start_char=2752
 4	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	_	end_char=2760|start_char=2758
