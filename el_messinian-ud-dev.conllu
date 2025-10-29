@@ -65,7 +65,7 @@
 3	κάτσε	κάθομαι	VERB	VbMn	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	end_char=2814|start_char=2809
 4	.	.	PUNCT	PTERMP	_	3	punct	_	end_char=2816|start_char=2815
 
-# sent_id = 11
+# sent_id = 67
 # text = Είχε γίνει κατακίτρινος .
 1	Είχε	έχω	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	2	aux	_	_
 2	γίνει	γίνομαι	VERB	VbMn	Aspect=Perf|Person=3|Voice=Pass	0	root	_	_
