@@ -138,7 +138,7 @@
 5	που	που	PRON	PnRe	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	end_char=1403|start_char=1400
 6	με	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	end_char=1406|start_char=1404
 7	κάνει	κάνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	end_char=1412|start_char=1407
-8	εμένα	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	end_char=1418|start_char=1413
+8	εμένα	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	expl	_	end_char=1418|start_char=1413
 9	χαρούμενη	χαρούμενος	ADJ	AjBa	Case=Nom|Gender=Fem|Number=Sing	7	xcomp	_	end_char=1428|start_char=1419
 10	και	και	CCONJ	CjCo	_	11	cc	_	end_char=1432|start_char=1429
 11	καλά	καλά	ADV	AdBa	_	9	conj	_	end_char=1437|start_char=1433
