@@ -383,7 +383,7 @@
 2	είχαμε	έχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	και	και	CCONJ	CjCo	_	6	cc	_	_
 4	σε	σε	ADP	NoCm	_	6	case	_	_
-5	τα	τα	DET	NoCm	Case=Acc|Gender=Neut|Number=Plur	6	det	_	_
+5	τα	τα	DET	NoCm	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
 6	δύο	δύο	NUM	NmCd	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	2	obl	_	_
 7	και	και	CCONJ	CjCo	_	11	cc	_	_
 8	αυτό	αυτός	DET	PnDm	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	_
