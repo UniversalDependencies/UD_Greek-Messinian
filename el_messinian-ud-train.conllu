@@ -292,8 +292,8 @@
 
 # text = αυτό που κάνεις να σε κάνει χαρούμενο .
 # sent_id = 25
-1	αυτό	αυτός	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	end_char=1059|start_char=1055
-2	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	mark	_	end_char=1063|start_char=1060
+1	αυτό	αυτός	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	end_char=1059|start_char=1055
+2	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	obj	_	end_char=1063|start_char=1060
 3	κάνεις	κάνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	end_char=1070|start_char=1064
 4	να	να	AUX	PtSj	_	6	aux	_	end_char=1073|start_char=1071
 5	σε	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	end_char=1076|start_char=1074
