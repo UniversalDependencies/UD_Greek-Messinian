@@ -86,7 +86,7 @@
 3	;	;	PUNCT	PTERM	_	2	punct	_	end_char=2884|SpaceAfter=No|start_char=2883
 
 # text = Εγώ σ το σπίτι συνέχιζα τα live , με τα ρούχα πια και με πιο λίγα αξεσουάρ .
-# sent_id = 41
+# sent_id = 70
 1	Εγώ	εγώ	PRON	PnPe	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	end_char=1743|start_char=1740
 2	σ	σε	ADP	AsPpSp	_	4	case	_	end_char=1747|start_char=1744
 3	το	το	DET	AsPpSp	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	4	det	_	end_char=1747|start_char=1744
