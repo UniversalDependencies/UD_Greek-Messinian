@@ -89,7 +89,7 @@
 # sent_id = 41
 1	Εγώ	εγώ	PRON	PnPe	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	end_char=1743|start_char=1740
 2	σ	σε	ADP	AsPpSp	_	4	case	_	end_char=1747|start_char=1744
-3	το	το	DET	AsPpSp	Case=Acc|Gender=Neut|Number=Sing||PronType=Art	4	det	_	end_char=1747|start_char=1744
+3	το	το	DET	AsPpSp	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	4	det	_	end_char=1747|start_char=1744
 4	σπίτι	σπίτι	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	end_char=1753|start_char=1748
 5	συνέχιζα	συνεχίζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=1762|start_char=1754
 6	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	end_char=1765|start_char=1763
