@@ -612,11 +612,12 @@
 5	πει	λέω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 6	τι	τι	PRON	PnIr	PronType=Int	7	obj	_	_
 7	θέλουν	θέλω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
-8	ε,	ε,	SCONJ	PtSj	_	7	reparandum	_	_
-9	κρατήσεις	κράτηση	NOUN	VbMn	Case=Acc|Number=Plur	7	conj	_	_
+8	ε,	ε,	SCONJ	PtSj	_	7	discourse	_	_
+9	κρατήσεις	κράτηση	NOUN	NoCm	Case=Acc|Number=Plur	6	appos	_	_
 10	και	και	CCONJ	CjCo	_	11	cc	_	_
 11	τέτοια	τέτοιος	ADJ	PnDm	Case=Acc|Gender=Neut|Number=Plur	9	conj	_	_
 12	.	.	PUNCT	PTERMP	_	5	punct	_	PunctType=Peri
+
 
 # text = Τ' οτιδήποτε, έπρεπε να μας το φέρουν οι γονείς μας .
 # sent_id = 54
