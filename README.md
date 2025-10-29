@@ -1,12 +1,11 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+Messenian is in the Souther group of dialects of Modern Greek to which also belongs the main variety (the Standard).
 
 
 # Introduction
 
 This file contains  selected transcribed material from 70 minutes of interviews with native speakers of the Messenian dialect collected in Messenia during 2023.
-Messenian is in the Souther group of dialects of Modern Greek to which also belongs the main variety (the Standard).
 
 
 Five women (22,24,27,49,60 years) and two men (52,86 years) were recorded. An ASR model was produced with Wisper Large v -03 without fine tuning.
