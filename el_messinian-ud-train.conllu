@@ -356,26 +356,33 @@
 
 # text = Πάρ' το χαρτί του λέω
 # sent_id = 30
+1	Πάρ'	παίρνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
 2	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	χαρτί	χαρτί	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
 4	του	εγώ	PRON	PnPo	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	iobj	_	_
 5	λέω	λέω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
+
 # text = Τι παίζω ;
 # sent_id = 31
+1	Τι	τι	PRON	PnIr	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
 2	παίζω	παίζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	;	;	PUNCT	PTERM	_	2	punct	_	PunctType=Qest
 
+
 # text = Και έπρεπε να βάλω σιδεράκια .
 # sent_id = 32
+1	Και	και	CCONJ	CjCo	_	2	cc	_	_
 2	έπρεπε	πρέπει	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	να	να	SCONJ	PtSj	_	4	mark	_	_
 4	βάλω	βάζω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	2	csubj	_	_
 5	σιδεράκια	σιδεράκια	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 6	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+
 # text = Και είχαμε και σε τα δύο και αυτό το απαίσιο σύστημα .
 # sent_id = 33
+1	Και	και	CCONJ	CjCo	_	2	cc	_	_
 2	είχαμε	έχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	και	και	CCONJ	CjCo	_	6	cc	_	_
 4	σε	σε	ADP	NoCm	_	6	case	_	_
@@ -390,6 +397,7 @@
 
 # text = Διευθυντής ήταν ο κύριος Δημόπ'λος , ο Νίκωνας Δημόπ'λος , που ήσαντε απ' τη Σπάρτη καταγωγή του .
 # sent_id = 34
+1	Διευθυντής	διευθυντής	NOUN	NoCm	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	ήταν	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	cop	_	_
 3	ο	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	det	_	_
 4	κύριος	κύριος	ADJ	NoCm	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
@@ -410,6 +418,7 @@
 
 # text = Κάνει εντύπωση όταν μία γυναίκα παίζει .
 # sent_id = 35
+1	Κάνει	κάνω	VERB	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 2	εντύπωση	εντύπωση	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
 3	όταν	όταν	SCONJ	CjSb	_	6	mark	_	_
 4	μία	ένας	DET	AtId	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	det	_	_
@@ -417,8 +426,10 @@
 6	παίζει	παίζω	VERB	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	csubj	_	_
 7	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 
+
 # text = Είχα κάνει και τη δικιά μου και της Ιωάννας και του μπαμπά έφοδο .
 # sent_id = 36
+1	Είχα	έχω	AUX	VbMn	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	aux	_	_
 2	κάνει	κάνω	VERB	VbMn	Aspect=Perf|Tense=Past|Voice=Act	0	root	_	_
 3	και	και	CCONJ	CjCo	_	5	cc	_	_
 4	τη	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	det	_	_
@@ -433,33 +444,43 @@
 13	έφοδο	έφοδος	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 14	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+
 # text = Δίκιο έχεις .
 # sent_id = 37
+1	Δίκιο	δίκιο	NOUN	NoPr	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
 2	έχεις	έχω	VERB	VbMn	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
 3	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+
 # text = Δεν έχανε αγώνα .
 # sent_id = 38
+1	Δεν	δεν	PART	PtNg	Polarity=Neg	2	advmod	_	_
 2	έχανε	χάνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	αγώνα	αγώνας	NOUN	NoCm	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 4	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+
 # text = Και αυτό πολύ ενδιαφέρον .
 # sent_id = 39
+1	Και	και	CCONJ	CjCo	_	4	cc	_	_
 2	αυτό	αυτός	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
 3	πολύ	πολύ	ADV	AdBa	_	4	advmod	_	_
 4	ενδιαφέρον	ενδιαφέρων	ADJ	NoCm	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 5	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
 
+
 # text = Γυρνάει σε το νοσοκομείο .
 # sent_id = 40
+1	Γυρνάει	γυρνώ	VERB	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 2	σε	σε	ADP	AsPpSp	_	4	case	_	_
 3	το	το	DET	AsPpSp	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
 4	νοσοκομείο	νοσοκομείο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
 5	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Periσ
 
+
 # text = Εμένα μου φαινόταν η καλύτερή μου επιλογή .
 # sent_id = 41
+1	Εμένα	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1	3	expl	_	_
 2	μου	εγώ	PRON	PnPe	Case=Gen|Person=1|PronType=Prs	3	iobj	_	_
 3	φαινόταν	φαίνομαι	VERB	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	det	_	_
@@ -468,8 +489,10 @@
 7	επιλογή	επιλογή	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	_
 8	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
 
+
 # text = Το κάνουν με το ζόρι και προσπαθούσαν .
 # sent_id = 42
+1	Το	ο	DET	PnPe	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
 2	κάνουν	κάνω	VERB	VbMn	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	με	με	ADP	AsPpSp	_	5	case	_	_
 4	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	5	det	_	_
@@ -478,12 +501,16 @@
 7	προσπαθούσαν	προσπαθώ	VERB	VbMn	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	2	conj	_	_
 8	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+
 # text = Κατάλαβες ;
 # sent_id = 43
+1	Κατάλαβες	καταλαβαίνω	VERB	VbMn	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	;	;	PUNCT	PTERM	_	1	punct	_	PunctType=Qest
+
 
 # text = Αυτά που λες ήταν για το ορφανοτροφείο της Ρεθύμνης .
 # sent_id = 44
+1	Αυτά	αυτός	DET	PnDm	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	7	nsubj	_	_
 2	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	3	obj	_	_
 3	λες	λέω	VERB	VbMn	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
 4	ήταν	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	cop	_	_
@@ -494,8 +521,10 @@
 9	Ρεθύμνης	Ρεθύμνη	PROPN	NoPr	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
 10	.	.	PUNCT	PTERMP	_	7	punct	_	PunctType=Peri
 
+
 # text = Οπότε για να 'ρθούμε Καλαμάτα να κάνουμε
 # sent_id = 45
+1	Οπότε	Οπότε	SCONJ	AdBa	_	7	mark	_	_
 2	για	για	ADP	AsPpSp	ExtPos=SCONJ	7	case	_	_
 3	να	να	SCONJ	PtSj	_	2	fixed	_	_
 4	'ρθούμε	έρχομαι	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass	7	xcomp	_	_
@@ -503,8 +532,10 @@
 6	να	να	SCONJ	PtSj	_	7	mark	_	_
 7	κάνουμε	κάνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
 
+
 # text = Πιο πολύ των αγοριών το βιντεοπαιχνίδι .
 # sent_id = 46
+1	Πιο	πιο	ADV	AdBa	Degree=Cmp	2	advmod	_	_
 2	πολύ	πολύ	ADV	AdBa	_	6	advmod	_	_
 3	των	ο	DET	AtDf	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 4	αγοριών	αγόρι	NOUN	AjBa	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
@@ -512,21 +543,27 @@
 6	βιντεοπαιχνίδι	βιντεοπαιχνίδι	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 7	.	.	PUNCT	PTERMP	_	6	punct	_	PunctType=Peri
 
+
 # text = Και μετά γυρίσανε Καλαμάτα ;
 # sent_id = 47
+1	Και	και	CCONJ	CjCo	_	3	cc	_	_
 2	μετά	μετά	ADV	AsPpSp	_	3	advmod	_	_
 3	γυρίσανε	γυρίζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Καλαμάτα	Καλαμάτα	PROPN	NoPr	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
 5	;	;	PUNCT	PTERM	_	3	punct	_	PunctType=Qest
 
+
 # text = Ρε με κοροϊδεύετε ;
 # sent_id = 48
+1	Ρε	ρε	INTJ	AdBa	_	3	discourse	_	_
 2	με	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
 3	κοροϊδεύετε	κοροϊδεύω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	;	;	PUNCT	PTERM	_	3	punct	_	PunctType=Qest
 
+
 # text = Εκεί σε τις εργατικές κατοικίες από πίσω .
 # sent_id = 49
+1	Εκεί	εκεί	ADV	AdBa	_	5	advmod	_	_
 2	σε	σε	ADP	AsPpSp	_	5	case	_	_
 3	τις	ο	DET	AsPpSp	Case=Acc|Gender=Fem|Number=Plur	5	det	_	_
 4	εργατικές	εργατικός	ADJ	AjBa	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	_
@@ -537,6 +574,7 @@
 
 # text = Όλοι αυτοί που ήσαντε από την εν λόγο περιοχή ήτανε σα να μένανε σ το ίδιο χωριό .
 # sent_id = 50
+1	Όλοι	όλος	DET	AjBa	Case=Nom|Gender=Masc|Number=Plur	2	det	_	_
 2	αυτοί	αυτός	DET	PnDm	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	13	nsubj	_	_
 3	που	που	PRON	PnRe	PronType=Rel	9	nsubj	_	_
 4	ήσαντε	είμαι	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
@@ -557,20 +595,25 @@
 
 # text = Δεν σου λείπει ;
 # sent_id = 51
+1	Δεν	δεν	ADV	PtNg	Polarity=Neg	3	advmod	_	_
 2	σου	εγώ	PRON	PnPe	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
 3	λείπει	λείπω	VERB	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 4	;	;	PUNCT	PTERM	_	3	punct	_	PunctType=Qest
 
+
 # text = Επειδή έφτιαχνα έναν ολόκληρο κόσμο .
 # sent_id = 52
+1	Επειδή	επειδή	SCONJ	CjSb	_	2	mark	_	_
 2	έφτιαχνα	φτιάχνω	VERB	VbMn	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
 3	έναν	ένας	DET	AtId	_	5	det	_	_
 4	ολόκληρο	ολόκληρος	ADJ	AjBa	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
 5	κόσμο	κόσμος	NOUN	NoCm	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 6	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+
 # text = Να μου 'χουνε ήδη πει τι θέλουν ε, κρατήσεις και τέτοια .
 # sent_id = 53
+1	Να	να	PART	PtSj	_	5	mark	_	_
 2	μου	εγώ	PRON	PnPe	Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
 3	'χουνε	έχω	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 4	ήδη	ήδη	ADV	AdBa	_	5	advmod	_	_
@@ -583,8 +626,10 @@
 11	τέτοια	τέτοιος	ADJ	PnDm	Case=Acc|Gender=Neut|Number=Plur	9	conj	_	_
 12	.	.	PUNCT	PTERMP	_	5	punct	_	PunctType=Peri
 
+
 # text = Τ' οτιδήποτε, έπρεπε να μας το φέρουν οι γονείς μας .
 # sent_id = 54
+1	Τ'	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
 2	οτιδήποτε,	οτιδήποτε,	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Plur	3	dislocated	_	_
 3	έπρεπε	πρέπει	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	να	να	PART	PtSj	_	7	mark	_	_
@@ -596,16 +641,20 @@
 10	μας	εγώ	PRON	PnPo	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod	_	_
 11	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
 
+
 # text = Γιωργιόπ’λε, ξέρ'ς που έχει πάει ;
 # sent_id = 55
+1	Γιωργιόπ’λε,	Γεωργιόπουλος	PROPN	VbMn	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
 2	ξέρ'ς	ξέρω	VERB	NoCm	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	που	που	ADV	PnRe	_	5	advmod	_	_
 4	έχει	έχω	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	πάει	πηγαίνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 6	;	;	PUNCT	PTERM	_	2	punct	_	PunctType=Qest
 
+
 # text = Με φωνάζ’ απ’ το τέταρτο γραφείο .
 # sent_id = 56
+1	Με	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 2	φωνάζ’	φωνάζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	απ’	από	ADP	AsPpSp	_	6	case	_	_
 4	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
@@ -613,8 +662,10 @@
 6	γραφείο	γραφείο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
 7	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
+
 # text = Μετά τονε φερανε σε το ορφανοτροφείο της Καλαμάτας .
 # sent_id = 57
+1	Μετά	μετά	ADV	AdBa	_	3	advmod	_	_
 2	τονε	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
 3	φερανε	φέρνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	σε	σε	ADP	AtDf	Case=Acc|Gender=Neut|Number=Sing	6	case	_	_
@@ -624,8 +675,10 @@
 8	Καλαμάτας	Καλαμάτα	PROPN	NoPr	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
 9	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
 
+
 # text = Πήρα τα πραματά μου .
 # sent_id = 58
+1	Πήρα	παίρνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	_
 3	πραματά	πράγμα	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
 4	μου	εγώ	PRON	PnPo	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
@@ -633,6 +686,7 @@
 
 # text = Έβγαλα τη τρίτη τάξ , τετάρτη τάξ’ , πέμπτη τάξ' , και έχτη τάξη εκεί ..
 # sent_id = 59
+1	Έβγαλα	βγάζω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τη	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	τρίτη	τρίτος	ADJ	NmOd	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	τάξ	τάξη	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
