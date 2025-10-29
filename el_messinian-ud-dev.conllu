@@ -154,7 +154,7 @@
 21	και	και	CCONJ	CjCo	_	23	cc	_	end_char=1485|start_char=1482
 22	να	να	SCONJ	PtSj	_	23	mark	_	end_char=1488|start_char=1486
 23	πουλάω	πουλώ	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	20	conj	_	end_char=1495|start_char=1489
-24	τίποτα	τίποτα	ADV	PnId	Case=Acc|Gender=Neut|Number=Sing	18	conj	_	end_char=1502|start_char=1496
+24	τίποτα	τίποτα	DET	PnId	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	18	conj	_	end_char=1502|start_char=1496
 25	άλλο	άλλος	ADJ	PnId	Case=Acc|Gender=Neut|Number=Sing	24	amod	_	end_char=1507|start_char=1503
 26	.	.	PUNCT	PTERMP	_	13	punct	_	end_char=1509|start_char=1508
 
