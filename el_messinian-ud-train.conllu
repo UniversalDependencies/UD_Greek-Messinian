@@ -234,7 +234,7 @@
 2	'ναι	είμαι	AUX	VbMn	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	end_char=857|start_char=853
 3	ωραία	ωραίος	ADJ	AjBa	Case=Acc|Gender=Neut|Number=Plur	0	root	_	end_char=863|start_char=858
 4	αυτά	αυτός	DET	PnDm	Case=Nom|Number=Plur|PronType=Dem	3	nsubj	_	end_char=868|start_char=864
-5	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	7	mark	_	end_char=872|start_char=869
+5	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	7	obj	_	end_char=872|start_char=869
 6	θα	θα	AUX	PtFu	Tense=Fut	7	aux	_	end_char=875|start_char=873
 7	φέρουμε	φέρνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	4	acl:relcl	_	end_char=883|start_char=876
 8	.	.	PUNCT	PTERMP	_	3	punct	_	end_char=885|start_char=884
