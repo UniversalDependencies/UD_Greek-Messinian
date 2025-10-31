@@ -37,7 +37,7 @@ Vivian Stamou and Stella Markantonatou supervised the work, contributed to the a
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: 
+Data available since: 2.15
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
