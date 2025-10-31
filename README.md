@@ -31,7 +31,7 @@ Vivian Stamou and Stella Markantonatou supervised the work, contributed to the a
 
 # Changelog
 
-* 2024-05-15 v2.14
+* 2025-11-01 v2.16
   * Initial release in Universal Dependencies.
 
 
