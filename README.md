@@ -1,11 +1,11 @@
 # Summary
 
-Messenian is in the Souther group of dialects of Modern Greek to which also belongs the main variety (the Standard).
+Messenian is in the Southern group of dialects of Modern Greek to which also belongs the main variety (the Standard).
 
 
 # Introduction
 
-This file contains  selected transcribed material from 70 minutes of interviews with native speakers of the Messenian dialect collected in Messenia during 2023.
+This file contains selected transcribed material from 70 minutes of interviews with native speakers of the Messenian dialect collected in Messenia during 2023.
 
 
 Five women (22,24,27,49,60 years) and two men (52,86 years) were recorded. An ASR model was produced with Wisper Large v -03 without fine tuning.
@@ -14,7 +14,7 @@ Five women (22,24,27,49,60 years) and two men (52,86 years) were recorded. An AS
 # Acknowledgments
 
 Katerina Mouzou collected the material, edited the transcriptions and contributed to the treebank annotation. Chara Tsoukala developed the ASR model.
-Vivian Stamou and Stella Markantonatou supervised the work, contributed to the annotation and maintain the treebank. 
+Vivian Stamou and Stella Markantonatou supervised the work, contributed to the annotation and maintain the treebank.
 
 ## References
 
@@ -41,7 +41,7 @@ Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: grammar-examples
+Genre: spoken
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
